@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "task": "Wyrzucic smieci",
+    "complete": true
+  },
+  {
+    "id": 2,
+    "task": "Zrobic pranie",
+    "complete": true
+  },
+  {
+    "id": 3,
+    "task": "Wyprowadzic psa",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Zrobic obiad",
+    "complete": true
+  },
+  {
+    "id": 5,
+    "task": "Zmienic zarowke",
+    "complete": false
+  },
+  {
+    "id": 6,
+    "task": "Zrobic trening",
+    "complete": false
+  },
+  {
+    "id": 7,
+    "task": "Zrobic zakupy",
+    "complete": false
+  }
+]
